@@ -1,4 +1,0 @@
-GitKittens
-==========
-
-Second Repository
